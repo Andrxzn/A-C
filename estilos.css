@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: #ffdfd3;
+    color: #d291bc;
+    font-size: 40px;
+    font-family: "Comfortaa", cursive;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+  }
+  img:hover {
+    transition: 2s all;
+    border-radius: 100%;
+  }
+  span {
+    color: #957dad;
+  }
+  span:hover {
+    font-size: 150px;
+    transition: 3s all;
+  }
+  button {
+    border: 3px solid #957dad;
+    border-radius: 5px;
+    font-size: 1em;
+    padding: 15px;
+  }
+  
